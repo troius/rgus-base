@@ -1,0 +1,16 @@
+{
+	"name": "rgus",
+	"version": "0.0.1",
+	"copyright": "(c) 2016 TROIUS Software GmbH",
+	"license": "AGPL-3.0",
+	"main": "src/js/index.js",
+	"dependencies": {
+		"always-tail": "*",
+		"nodemailer": "*",
+		"nodemailer-smtp-transport": "*",
+		"freediskspace": "*"
+	},
+	"engines": {
+		"node": ">=4.0.0"
+	}
+}

@@ -1,2 +1,3 @@
 # rgus-base
-The R.Gus System Monitoring Toolkit
+
+This package contains the base packages of the R.Gus System Monitoring Toolkit.
