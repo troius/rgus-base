@@ -1,9 +1,17 @@
 {
-	"name": "rgus",
+	"name": "rgus-base",
 	"version": "0.0.1",
 	"copyright": "(c) 2016 TROIUS Software GmbH",
+	"homepage": "https://www.troius.com",
 	"license": "AGPL-3.0",
-	"main": "src/js/index.js",
+	"registry": {
+	},
+	"bugs": {
+		"url": "https://github.com/troius/rgus-base/issues"
+	},
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org"
+	},
 	"dependencies": {
 		"always-tail": "*",
 		"nodemailer": "*",
